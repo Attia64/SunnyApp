@@ -28,4 +28,4 @@ WeatherApp is a simple yet powerful Android application designed to provide you 
 ## Download
 
 
-[Apk](https://github.com/Attia64/SunnyApp/raw/master/app/release/app-release.apk)
+[Apk](https://github.com/Attia64/SunnyApp/blob/master/app/release/Sunny.apk)
